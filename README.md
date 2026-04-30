@@ -1,2 +1,1 @@
-# AI-Resume-Analyzer-Chatbot
-Ai Resume Analyzer Chatbot
+# Bharat Explorer Chatbot
